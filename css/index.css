@@ -1,0 +1,59 @@
+body{
+    background: url("http://www.wallpaperhi.com/thumbnails/detail/20120526/adventure%20time%20finn%20the%20human%20jake%20the%20dog%201680x1050%20wallpaper_www.wallpaperhi.com_85.jpg");
+    background-size: cover;
+  /* no-repeat center center fixed;;*/
+    font-family: 'Francois One', sans-serif;
+
+
+}
+
+p{
+
+}
+
+aside{
+    position: absolute;
+}
+#reset{
+    border: outset;
+    background-color: transparent;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+}
+
+#reset:active{
+    background-color: transparent;
+    border: inset;
+
+}
+h1{
+    text-align: center;
+}
+
+#buttons{
+    width: 900px;
+    margin: auto;
+}
+
+button.rock{
+    border: none;
+    cursor: pointer;
+    margin-left: 16%;
+    background-color: transparent;
+}
+
+button.paper{
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+button.scissor{
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
